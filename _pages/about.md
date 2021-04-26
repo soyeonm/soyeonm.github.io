@@ -22,5 +22,18 @@ I am interested in the following topics:
 Publications
 ======
 
+[**Entity-Enriched Neural Models for Clinical Question Answering**](https://www.aclweb.org/anthology/2020.bionlp-1.12/)\
+Proceedings of the 19th SIGBioMed Workshop on Biomedical Language Processing\
+_Bhanu Pratap Singh Rawat, Wei-Hung Weng, **So Yeon Min**, Preethi Raghavan, Peter Szolovits_
 
+[**Advancing Seq2seq with Joint Paraphrase Learning**](https://www.aclweb.org/anthology/2020.clinicalnlp-1.30/)\
+Proceedings of the 3rd Clinical Natural Language Processing Workshop\
+_**So Yeon Min**, Preethi Raghavan, Peter Szolovits_
+
+[**TransINT: Embedding Implication Rules in Knowledge Graphs with Isomorphic Intersections of Linear Subspaces**](https://www.akbc.ws/2020/virtual/poster_87.html)\
+Automated Knowledge Base Construction 2020\
+_**So Yeon Min**, Preethi Raghavan, Peter Szolovits_
+
+[**Towards knowledge-based, robust question answering**](https://dspace.mit.edu/bitstream/handle/1721.1/127462/1192966860-MIT.pdf?sequence=1&isAllowed=y)\
+Master's Thesis
 
