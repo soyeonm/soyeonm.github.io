@@ -1,15 +1,3 @@
----
-permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-
-
 About
 ======
 I am a first year PhD student at Carnegie Mellon University's Machine Learning Department (MLD). I am co-advised by Professors [Ruslan Salakhutdinov](https://www.cs.cmu.edu/~rsalakhu/) and [Yonatan Bisk](https://yonatanbisk.com/index.html). 
