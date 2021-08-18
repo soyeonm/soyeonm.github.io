@@ -17,6 +17,11 @@ I am interested in the following topics:
 * Efficient/ few-shot robotic navigation with external knowledge
 * Efficient self-supervised/ weakly supervised learning
 
+News
+======
+
+Jul. 6, 2021: I have been chosen as the second place recipient of the  Charles & Jennifer Johnson Artificial Intelligence and Decision Making M.Eng Thesis Award for 2021, for my Master's Thesis “Towards Knowledge-Based, Robust Question Answering.” Thank you once again, Pete and Preethi!
+
 Publications
 ======
 
