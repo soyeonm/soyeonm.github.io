@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a first year PhD student at Carnegie Mellon University's Machine Learning Department (MLD). I am co-advised by Professors [Ruslan Salakhutdinov](https://www.cs.cmu.edu/~rsalakhu/) and [Yonatan Bisk](https://yonatanbisk.com/index.html). 
-I earned my B.S. and M.Eng at MIT, where I worked with Professor [Peter Szolovits](https://groups.csail.mit.edu/medg/people/psz/) and [Dr. Preethi Raghavan](https://researcher.watson.ibm.com/researcher/view.php?person=us-praghav). 
+I earned my B.S. and M.Eng at MIT, where I worked with Professor [Peter Szolovits](https://groups.csail.mit.edu/medg/people/psz/) and [Dr. Preethi Raghavan](https://researcher.watson.ibm.com/researcher/view.php?person=us-praghav). I graduated from MIT withthe **second place recipient of the Charles & Jennifer Johnson Artificial Intelligence and Decision Making M.Eng Thesis Award**.
 
 I am interested in the following topics:
 
@@ -20,10 +20,16 @@ I am interested in the following topics:
 News
 ======
 
-Jul. 6, 2021: I have been chosen as the second place recipient of the  Charles & Jennifer Johnson Artificial Intelligence and Decision Making M.Eng Thesis Award for 2021, for my Master's Thesis “Towards Knowledge-Based, Robust Question Answering.” Thank you once again, Pete and Preethi!
+Jan. 5. 2022: Invited talk on FILM(https://soyeonm.github.io/FILM_webpage/) at Computer Vision Lab at GIST(https://gistvision.github.io/)! Thank you for inviting me!
+
+Jul. 6, 2021: I have been chosen as the **second place recipient of the  Charles & Jennifer Johnson Artificial Intelligence and Decision Making M.Eng Thesis Award** for 2021, for my Master's Thesis “Towards Knowledge-Based, Robust Question Answering.” Thank you once again, Pete and Preethi!
 
 Publications
 ======
+
+[**FILM: Following Instructions in Language with Modular Methods**](https://soyeonm.github.io/FILM_webpage/)\
+Arxiv preprint.\
+_**So Yeon Min**, Devendra Chaplot, Pradeep Ravikumar, Yonatan Bisk, Ruslan Salakhutdinov_
 
 [**Entity-Enriched Neural Models for Clinical Question Answering**](https://www.aclweb.org/anthology/2020.bionlp-1.12/)\
 Proceedings of the 19th SIGBioMed Workshop on Biomedical Language Processing\
