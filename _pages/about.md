@@ -20,7 +20,7 @@ I am interested in the following topics:
 News
 ======
 
-Jan. 5. 2022: Invited talk on FILM(https://soyeonm.github.io/FILM_webpage/) at Computer Vision Lab at GIST(https://gistvision.github.io/)! Thank you for inviting me!
+Jan. 5. 2022: Invited talk on [FILM](https://soyeonm.github.io/FILM_webpage/) at [GIST Computer Vision Lab](https://gistvision.github.io/)! Thank you for inviting me!
 
 Jul. 6, 2021: I have been chosen as the **second place recipient of the  Charles & Jennifer Johnson Artificial Intelligence and Decision Making M.Eng Thesis Award** for 2021, for my Master's Thesis “Towards Knowledge-Based, Robust Question Answering.” Thank you once again, Pete and Preethi!
 
