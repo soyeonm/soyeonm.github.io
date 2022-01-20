@@ -9,16 +9,19 @@ redirect_from:
 ---
 
 I am a second year PhD student at Carnegie Mellon University's Machine Learning Department (MLD). I am co-advised by Professors [Ruslan Salakhutdinov](https://www.cs.cmu.edu/~rsalakhu/) and [Yonatan Bisk](https://yonatanbisk.com/index.html). 
-I earned my B.S. and M.Eng at MIT, where I worked with Professor [Peter Szolovits](https://groups.csail.mit.edu/medg/people/psz/) and [Dr. Preethi Raghavan](https://researcher.watson.ibm.com/researcher/view.php?person=us-praghav). I graduated from MIT withthe **second place recipient of the Charles & Jennifer Johnson Artificial Intelligence and Decision Making M.Eng Thesis Award**.
+I earned my B.S. and M.Eng at MIT, where I worked with Professor [Peter Szolovits](https://groups.csail.mit.edu/medg/people/psz/) and [Dr. Preethi Raghavan](https://researcher.watson.ibm.com/researcher/view.php?person=us-praghav). I graduated from MIT as the **second place recipient of the Charles & Jennifer Johnson Artificial Intelligence and Decision Making M.Eng Thesis Award**.
 
-I am interested in the following topics:
+*I am interested in the following topics:
 
-* Learning with external knowledge/ weak supervision
-* Efficient/ few-shot robotic navigation with external knowledge
-* Efficient self-supervised/ weakly supervised learning
+* 
+#* Learning with external knowledge/ weak supervision
+#* Efficient/ few-shot robotic navigation with external knowledge
+#* Efficient self-supervised/ weakly supervised learning
 
 News
 ======
+
+Jan. 20. 2022: [FILM](https://soyeonm.github.io/FILM_webpage/) is accepted to ICLR 2022!
 
 Jan. 5. 2022: Invited talk on [FILM](https://soyeonm.github.io/FILM_webpage/) at [GIST Computer Vision Lab](https://gistvision.github.io/)! Thank you for inviting me!
 
@@ -28,7 +31,7 @@ Publications
 ======
 
 [**FILM: Following Instructions in Language with Modular Methods**](https://soyeonm.github.io/FILM_webpage/)\
-Arxiv preprint.\
+**Accepted to ICLR 2022.** Arxiv preprint.\
 _**So Yeon Min**, Devendra Chaplot, Pradeep Ravikumar, Yonatan Bisk, Ruslan Salakhutdinov_
 
 [**Entity-Enriched Neural Models for Clinical Question Answering**](https://www.aclweb.org/anthology/2020.bionlp-1.12/)\
