@@ -26,13 +26,16 @@ Jul. 6, 2021: I have been chosen as the **second place recipient of the  Charles
 Publications
 ======
 
+[**Object Goal Navigation with End-to-End Self-Supervision**](https://arxiv.org/abs/2212.05923)\
+Arxiv preprint.\
+_**So Yeon Min**, Yao-Hung Hubert Tsai, Wei Ding, Ali Farhadi, Ruslan Salakhutdinov, Yonatan Bisk, Jian Zhang_
 
 [**Don't Copy the Teacher: Data and Model Challenges in Embodied Dialogue**](https://arxiv.org/abs/2210.04443)\
-**Accepted to EMNLP 2022.** Arxiv preprint.\
+**EMNLP 2022.** \
 _**So Yeon Min**, Hao Zhu, Yonatan Bisk, Ruslan Salakhutdinov_
 
 [**FILM: Following Instructions in Language with Modular Methods**](https://soyeonm.github.io/FILM_webpage/)\
-**Accepted to ICLR 2022.** Arxiv preprint.\
+**ICLR 2022.** \
 _**So Yeon Min**, Devendra Chaplot, Pradeep Ravikumar, Yonatan Bisk, Ruslan Salakhutdinov_
 
 [**Entity-Enriched Neural Models for Clinical Question Answering**](https://www.aclweb.org/anthology/2020.bionlp-1.12/)\
