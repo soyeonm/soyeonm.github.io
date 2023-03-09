@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD student at Carnegie Mellon University's Machine Learning Department (MLD). I am co-advised by Professors [Ruslan Salakhutdinov](https://www.cs.cmu.edu/~rsalakhu/) and [Yonatan Bisk](https://yonatanbisk.com/index.html). 
+I am a third year PhD student at Carnegie Mellon University's Machine Learning Department (MLD). I am co-advised by Professors [Ruslan Salakhutdinov](https://www.cs.cmu.edu/~rsalakhu/) and [Yonatan Bisk](https://yonatanbisk.com/index.html). I am supported by [Apple AI/ ML scholars fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023). 
 I earned my B.S. and M.Eng at MIT, where I worked with Professor [Peter Szolovits](https://groups.csail.mit.edu/medg/people/psz/) and [Dr. Preethi Raghavan](https://researcher.watson.ibm.com/researcher/view.php?person=us-praghav). I graduated from MIT as the **second place recipient of the Charles & Jennifer Johnson Artificial Intelligence and Decision Making M.Eng Thesis Award**.
 
 
 News
 ======
+
+Mar. 9. 2022: I have been chosen as a recipient of the [Apple AI/ ML scholars fellowship 2023](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023)!
 
 Nov. 1. 2022: [Don't Copy the Teacher](https://arxiv.org/abs/2210.04443) is accepted to EMNLP 2022!
 
