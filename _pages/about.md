@@ -15,9 +15,15 @@ I earned my B.S. and M.Eng at MIT, where I worked with Professor [Peter Szolovit
 News
 ======
 
-Mar. 9. 2022: I have been chosen as a recipient of the [Apple AI/ ML scholars fellowship 2023](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023)!
+May. 30. 2023: I started my internship at Meta; I work with Roozbeh Mottaghi and am co-mentored by Devendra Singh Chaplot. 
+
+Mar. 9. 2023: I have been chosen as a recipient of the [Apple AI/ ML scholars fellowship 2023](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023)!
+
+Dec. 15. 2022: I finished my internship at Apple; Our paper is [here](https://arxiv.org/abs/2212.05923). Thank you, Jian Zhang, Hubert Tsai, and the team!
 
 Nov. 1. 2022: [Don't Copy the Teacher](https://arxiv.org/abs/2210.04443) is accepted to EMNLP 2022!
+
+May. 30. 2022: I started my internship at Apple.
 
 Jan. 20. 2022: [FILM](https://soyeonm.github.io/FILM_webpage/) is accepted to ICLR 2022!
 
@@ -28,9 +34,22 @@ Jul. 6, 2021: I have been chosen as the **second place recipient of the  Charles
 Publications
 ======
 
+
+[**SPRING: GPT-4 Out-performs RL Algorithms by Studying Papers and Reasoning**](https://arxiv.org/pdf/2305.15486.pdf)\
+Arxiv Pre-print\
+_Yue Wu, **So Yeon Min**, Shrimai Prabhumoye, Yonatan Bisk, Ruslan Salakhutdinov, Amos Azaria, Tom Mitchell, Yuanzhi Li_
+
+[**Plan, Eliminate, and Track--Language Models are Good Teachers for Embodied Agents**](https://arxiv.org/pdf/2305.02412.pdf)\
+Arxiv Pre-print\
+_Yue Wu, **So Yeon Min**, Yonatan Bisk, Ruslan Salakhutdinov, Amos Azaria, Yuanzhi Li, Tom Mitchell, Shrimai Prabhumoye_
+
 [**Object Goal Navigation with End-to-End Self-Supervision**](https://arxiv.org/abs/2212.05923)\
-Arxiv preprint.\
+**IROS 2023.**\
 _**So Yeon Min**, Yao-Hung Hubert Tsai, Wei Ding, Ali Farhadi, Ruslan Salakhutdinov, Yonatan Bisk, Jian Zhang_
+
+[**EXCALIBUR: Encouraging and Evaluating Embodied Exploration**](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_EXCALIBUR_Encouraging_and_Evaluating_Embodied_Exploration_CVPR_2023_paper.pdf)\
+**CVPR 2023.**\
+_Hao Zhu, Raghav Kapoor, **So Yeon Min**, Winson Han, Jiatai Li, Kaiwen Geng, Graham Neubig, Yonatan Bisk, Aniruddha Kembhavi, Luca Weihs_
 
 [**Don't Copy the Teacher: Data and Model Challenges in Embodied Dialogue**](https://arxiv.org/abs/2210.04443)\
 **EMNLP 2022.** \
