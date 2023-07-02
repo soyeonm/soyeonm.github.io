@@ -17,6 +17,8 @@ News
 
 May. 30. 2023: I started my internship at Meta; I work with Roozbeh Mottaghi and am co-mentored by Devendra Singh Chaplot. 
 
+April. 10. 2023: Invited talk on [Don't copy the teacher](https://arxiv.org/abs/2210.04443) at [Yonsei University Vision and Learning Lab](https://yonseivnl.github.io/). Thank you for inviting me!
+
 Mar. 9. 2023: I have been chosen as a recipient of the [Apple AI/ ML scholars fellowship 2023](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023)!
 
 Dec. 15. 2022: I finished my internship at Apple; Our paper is [here](https://arxiv.org/abs/2212.05923). Thank you, Jian Zhang, Hubert Tsai, and the team!
