@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD student at Carnegie Mellon University's Machine Learning Department (MLD), co-advised by Professors [**Ruslan Salakhutdinov**](https://www.cs.cmu.edu/~rsalakhu/) and [**Yonatan Bisk**](https://yonatanbisk.com/index.html). I am a proud winner of **Apple AI/ ML scholars fellowship 2023**.
+I am a forth year PhD student at Carnegie Mellon University's Machine Learning Department (MLD), co-advised by Professors [**Ruslan Salakhutdinov**](https://www.cs.cmu.edu/~rsalakhu/) and [**Yonatan Bisk**](https://yonatanbisk.com/index.html). I am a proud winner of **Apple AI/ ML scholars fellowship 2023**.
 I earned my B.S. and M.Eng at MIT, as the **second place recipient of the Charles & Jennifer Johnson Artificial Intelligence and Decision Making M.Eng Thesis Award**.
 
 
 News
 ======
+
+Sep. 21. 2023: [SPRING](https://arxiv.org/pdf/2305.15486.pdf) is accepted to Neurips 2023!
 
 May. 30. 2023: I started my internship at Meta; I work with Roozbeh Mottaghi and am co-mentored by Devendra Singh Chaplot. 
 
@@ -21,7 +23,7 @@ April. 10. 2023: Invited talk on [Don't copy the teacher](https://arxiv.org/abs/
 
 Mar. 9. 2023: I have been chosen as a recipient of the [Apple AI/ ML scholars fellowship 2023](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023)!
 
-Dec. 15. 2022: I finished my internship at Apple; Our paper is [here](https://arxiv.org/abs/2212.05923). Thank you, Jian Zhang, Hubert Tsai, and the team!
+Dec. 15. 2022: I finished my internship at Apple; [Our paper](https://arxiv.org/abs/2212.05923) will appear in the proceddings of IROS 2023, with a 5 min oral talk. Thank you, Jian Zhang, Hubert Tsai, and the team!
 
 Nov. 1. 2022: [Don't Copy the Teacher](https://arxiv.org/abs/2210.04443) is accepted to EMNLP 2022!
 
@@ -36,14 +38,13 @@ Jul. 6, 2021: I have been chosen as the **second place recipient of the  Charles
 Publications
 ======
 
-
-[**SPRING: GPT-4 Out-performs RL Algorithms by Studying Papers and Reasoning**](https://arxiv.org/pdf/2305.15486.pdf)\
-Arxiv Pre-print\
-_Yue Wu, **So Yeon Min**, Shrimai Prabhumoye, Yonatan Bisk, Ruslan Salakhutdinov, Amos Azaria, Tom Mitchell, Yuanzhi Li_
-
 [**Plan, Eliminate, and Track--Language Models are Good Teachers for Embodied Agents**](https://arxiv.org/pdf/2305.02412.pdf)\
 Arxiv Pre-print\
 _Yue Wu, **So Yeon Min**, Yonatan Bisk, Ruslan Salakhutdinov, Amos Azaria, Yuanzhi Li, Tom Mitchell, Shrimai Prabhumoye_
+
+[**SPRING: GPT-4 Out-performs RL Algorithms by Studying Papers and Reasoning**](https://arxiv.org/pdf/2305.15486.pdf)\
+**Neurips 2024.**\
+_Yue Wu, **So Yeon Min**, Shrimai Prabhumoye, Yonatan Bisk, Ruslan Salakhutdinov, Amos Azaria, Tom Mitchell, Yuanzhi Li_
 
 [**Object Goal Navigation with End-to-End Self-Supervision**](https://arxiv.org/abs/2212.05923)\
 **IROS 2023.**\
