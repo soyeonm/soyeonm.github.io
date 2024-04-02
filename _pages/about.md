@@ -14,6 +14,8 @@ I earned my B.S. and M.Eng at MIT, as the **second place recipient of the Charle
 
 News
 ======
+April. 1. 2023: [Habitat 3.0](https://arxiv.org/pdf/2310.13724.pdf) is accepted to ICLR 2024!
+
 Dec. 21. 2023: I finished my internship at Meta. Please stay tuned for arxiv upload of a new paper! 
 
 Sep. 21. 2023: [SPRING](https://arxiv.org/pdf/2305.15486.pdf) is accepted to NeurIPS 2023!
