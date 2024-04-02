@@ -15,6 +15,8 @@ I earned my B.S. and M.Eng at MIT, as the **second place recipient of the Charle
 News
 ======
 
+Dec. 21. 2023: I finished my internship at Meta. Please stay tuned for arxiv upload of a new paper! 
+
 Sep. 21. 2023: [SPRING](https://arxiv.org/pdf/2305.15486.pdf) is accepted to NeurIPS 2023!
 
 May. 30. 2023: I started my internship at Meta; I work with Roozbeh Mottaghi and am co-mentored by Devendra Singh Chaplot. 
@@ -37,7 +39,17 @@ Jul. 6, 2021: I have been chosen as the **second place recipient of the  Charles
 
 Publications
 ======
+**2024**
 
+[**GOAT: Go to any thing**](https://arxiv.org/pdf/2311.06430.pdf)\
+Arxiv Pre-print\
+_Matthew Chang, Theophile Gervet, Mukul Khanna, Sriram Yenamandra, Dhruv Shah, So Yeon Min, Kavit Shah, Chris Paxton, Saurabh Gupta, Dhruv Batra, Roozbeh Mottaghi, Jitendra Malik, Devendra Singh Chaplot_
+
+[**Habitat 3.0: A co-habitat for humans, avatars and robots**](https://arxiv.org/pdf/2310.13724.pdf)\
+**ICLR 2024.**\
+_Xavier Puig, Eric Undersander, Andrew Szot, Mikael Dallaire Cote, Tsung-Yen Yang, Ruslan Partsey, Ruta Desai, Alexander William Clegg, Michal Hlavac, **So Yeon Min**, Vladimír Vondruš, Theophile Gervet, Vincent-Pierre Berges, John M Turner, Oleksandr Maksymets, Zsolt Kira, Mrinal Kalakrishnan, Jitendra Malik, Devendra Singh Chaplot, Unnat Jain, Dhruv Batra, Akshara Rai, Roozbeh Mottaghi_
+
+**2023**
 
 [**SPRING: GPT-4 Out-performs RL Algorithms by Studying Papers and Reasoning**](https://arxiv.org/pdf/2305.15486.pdf)\
 **NeurIPS 2023.**\
@@ -55,6 +67,8 @@ _**So Yeon Min**, Yao-Hung Hubert Tsai, Wei Ding, Ali Farhadi, Ruslan Salakhutdi
 **CVPR 2023.**\
 _Hao Zhu, Raghav Kapoor, **So Yeon Min**, Winson Han, Jiatai Li, Kaiwen Geng, Graham Neubig, Yonatan Bisk, Aniruddha Kembhavi, Luca Weihs_
 
+**2022**
+
 [**Don't Copy the Teacher: Data and Model Challenges in Embodied Dialogue**](https://arxiv.org/abs/2210.04443)\
 **EMNLP 2022.** \
 _**So Yeon Min**, Hao Zhu, Yonatan Bisk, Ruslan Salakhutdinov_
@@ -62,6 +76,8 @@ _**So Yeon Min**, Hao Zhu, Yonatan Bisk, Ruslan Salakhutdinov_
 [**FILM: Following Instructions in Language with Modular Methods**](https://soyeonm.github.io/FILM_webpage/)\
 **ICLR 2022.** \
 _**So Yeon Min**, Devendra Chaplot, Pradeep Ravikumar, Yonatan Bisk, Ruslan Salakhutdinov_
+
+**Before 2022**
 
 [**Entity-Enriched Neural Models for Clinical Question Answering**](https://www.aclweb.org/anthology/2020.bionlp-1.12/)\
 Proceedings of the 19th SIGBioMed Workshop on Biomedical Language Processing\
