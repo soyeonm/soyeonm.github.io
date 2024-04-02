@@ -39,7 +39,17 @@ _Xavier Puig, Eric Undersander, Andrew Szot, Mikael Dallaire Cote, Tsung-Yen Yan
 
 [**SPRING: GPT-4 Out-performs RL Algorithms by Studying Papers and Reasoning**](https://arxiv.org/pdf/2305.15486.pdf)\
 **NeurIPS 2023.**\
-@@ -55,6 +67,8 @@ _**So Yeon Min**, Yao-Hung Hubert Tsai, Wei Ding, Ali Farhadi, Ruslan Salakhutdi
+_Yue Wu, **So Yeon Min**, Shrimai Prabhumoye, Yonatan Bisk, Ruslan Salakhutdinov, Amos Azaria, Tom Mitchell, Yuanzhi Li_
+
+[**Plan, Eliminate, and Track--Language Models are Good Teachers for Embodied Agents**](https://arxiv.org/pdf/2305.02412.pdf)\
+Arxiv Pre-print\
+_Yue Wu, **So Yeon Min**, Yonatan Bisk, Ruslan Salakhutdinov, Amos Azaria, Yuanzhi Li, Tom Mitchell, Shrimai Prabhumoye_
+
+[**Object Goal Navigation with End-to-End Self-Supervision**](https://arxiv.org/abs/2212.05923)\
+**IROS 2023.**\
+_**So Yeon Min**, Yao-Hung Hubert Tsai, Wei Ding, Ali Farhadi, Ruslan Salakhutdinov, Yonatan Bisk, Jian Zhang_
+
+[**EXCALIBUR: Encouraging and Evaluating Embodied Exploration**](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_EXCALIBUR_Encouraging_and_Evaluating_Embodied_Exploration_CVPR_2023_paper.pdf)\
 **CVPR 2023.**\
 _Hao Zhu, Raghav Kapoor, **So Yeon Min**, Winson Han, Jiatai Li, Kaiwen Geng, Graham Neubig, Yonatan Bisk, Aniruddha Kembhavi, Luca Weihs_
 
@@ -48,9 +58,11 @@ _Hao Zhu, Raghav Kapoor, **So Yeon Min**, Winson Han, Jiatai Li, Kaiwen Geng, Gr
 [**Don't Copy the Teacher: Data and Model Challenges in Embodied Dialogue**](https://arxiv.org/abs/2210.04443)\
 **EMNLP 2022.** \
 _**So Yeon Min**, Hao Zhu, Yonatan Bisk, Ruslan Salakhutdinov_
-@@ -63,6 +77,8 @@ _**So Yeon Min**, Hao Zhu, Yonatan Bisk, Ruslan Salakhutdinov_
+
+[**FILM: Following Instructions in Language with Modular Methods**](https://soyeonm.github.io/FILM_webpage/)\
 **ICLR 2022.** \
 _**So Yeon Min**, Devendra Chaplot, Pradeep Ravikumar, Yonatan Bisk, Ruslan Salakhutdinov_
+
 
 **Before 2022**
 
