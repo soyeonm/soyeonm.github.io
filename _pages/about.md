@@ -21,7 +21,22 @@ Dec. 21. 2023: I finished my internship at Meta. Please stay tuned for arxiv upl
 Sep. 21. 2023: [SPRING](https://arxiv.org/pdf/2305.15486.pdf) is accepted to NeurIPS 2023!
 
 May. 30. 2023: I started my internship at Meta; I work with Roozbeh Mottaghi and am co-mentored by Devendra Singh Chaplot. 
-@@ -37,7 +39,17 @@ Jul. 6, 2021: I have been chosen as the **second place recipient of the  Charles
+
+April. 10. 2023: Invited talk on [Don't copy the teacher](https://arxiv.org/abs/2210.04443) at [Yonsei University Vision and Learning Lab](https://yonseivnl.github.io/). Thank you for inviting me!
+
+Mar. 9. 2023: I have been chosen as a recipient of the [Apple AI/ ML scholars fellowship 2023](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023)!
+
+Dec. 15. 2022: I finished my internship at Apple; [Our paper](https://arxiv.org/abs/2212.05923) is accepted as a main conference paper to IROS 2023. Thank you, Jian Zhang, Hubert Tsai, and the team!
+
+Nov. 1. 2022: [Don't Copy the Teacher](https://arxiv.org/abs/2210.04443) is accepted to EMNLP 2022!
+
+May. 30. 2022: I started my internship at Apple.
+
+Jan. 20. 2022: [FILM](https://soyeonm.github.io/FILM_webpage/) is accepted to ICLR 2022!
+
+Jan. 5. 2022: Invited talk on [FILM](https://soyeonm.github.io/FILM_webpage/) at [GIST Computer Vision Lab](https://gistvision.github.io/)! Thank you for inviting me!
+
+Jul. 6, 2021: I have been chosen as the **second place recipient of the  Charles & Jennifer Johnson Artificial Intelligence and Decision Making M.Eng Thesis Award** for 2021, for my Master's Thesis “Towards Knowledge-Based, Robust Question Answering.” Thank you once again, Pete and Preethi!
 
 Publications
 ======
