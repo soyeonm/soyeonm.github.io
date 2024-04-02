@@ -29,7 +29,7 @@ Publications
 
 [**GOAT: Go to any thing**](https://arxiv.org/pdf/2311.06430.pdf)\
 Arxiv Pre-print\
-_Matthew Chang, Theophile Gervet, Mukul Khanna, Sriram Yenamandra, Dhruv Shah, So Yeon Min, Kavit Shah, Chris Paxton, Saurabh Gupta, Dhruv Batra, Roozbeh Mottaghi, Jitendra Malik, Devendra Singh Chaplot_
+_Matthew Chang, Theophile Gervet, Mukul Khanna, Sriram Yenamandra, Dhruv Shah, **So Yeon Min**, Kavit Shah, Chris Paxton, Saurabh Gupta, Dhruv Batra, Roozbeh Mottaghi, Jitendra Malik, Devendra Singh Chaplot_
 
 [**Habitat 3.0: A co-habitat for humans, avatars and robots**](https://arxiv.org/pdf/2310.13724.pdf)\
 **ICLR 2024.**\
