@@ -42,7 +42,7 @@ Publications
 ======
 **2024**
 
-[**AgentKit: Flow Engineering with Graphs, not Coding**](https://arxiv.org/abs/2404.11483)
+[**AgentKit: Flow Engineering with Graphs, not Coding**](https://arxiv.org/abs/2404.11483)\
 Arxiv Pre-print\
 _Yue Wu, Yewen Fan, So Yeon Min, Shrimai Prabhumoye, Stephen McAleer, Yonatan Bisk, Ruslan Salakhutdinov, Yuanzhi Li, Tom Mitchell_
 
