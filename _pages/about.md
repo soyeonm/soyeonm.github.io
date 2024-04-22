@@ -44,7 +44,7 @@ Publications
 
 [**AgentKit: Flow Engineering with Graphs, not Coding**](https://arxiv.org/abs/2404.11483)\
 Arxiv Pre-print\
-_Yue Wu, Yewen Fan, So Yeon Min, Shrimai Prabhumoye, Stephen McAleer, Yonatan Bisk, Ruslan Salakhutdinov, Yuanzhi Li, Tom Mitchell_
+_Yue Wu, Yewen Fan, **So Yeon Min**, Shrimai Prabhumoye, Stephen McAleer, Yonatan Bisk, Ruslan Salakhutdinov, Yuanzhi Li, Tom Mitchell_
 
 [**GOAT: Go to any thing**](https://arxiv.org/pdf/2311.06430.pdf)\
 Arxiv Pre-print\
