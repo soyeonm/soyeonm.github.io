@@ -14,7 +14,9 @@ I earned my B.S. and M.Eng at MIT, as the **second place recipient of the Charle
 
 News
 ======
-April. 1. 2023: [Habitat 3.0](https://arxiv.org/pdf/2310.13724.pdf) is accepted to ICLR 2024!
+Jul. 3. 2024: [Situated Instruction Following](https://soyeonm.github.io/SIF_webpage/) is accepted to ECCV 2024!
+
+April. 1. 2024: [Habitat 3.0](https://arxiv.org/pdf/2310.13724.pdf) is accepted to ICLR 2024!
 
 Dec. 21. 2023: I finished my internship at Meta. Please stay tuned for arxiv upload of a new paper! 
 
@@ -42,12 +44,16 @@ Publications
 ======
 **2024**
 
+[**Situated Instruction Following**](https://soyeonm.github.io/SIF_webpage/)\
+ECCV 2024\
+_**So Yeon Min**, Xavi Puig, Devendra Singh Chaplot, Tsung-Yen Yang, Akshara Rai, Priyam Parashar, Ruslan Salakhutdinov, Yonatan Bisk, Roozbeh Mottaghi_
+
 [**AgentKit: Flow Engineering with Graphs, not Coding**](https://arxiv.org/abs/2404.11483)\
 Arxiv Pre-print\
 _Yue Wu, Yewen Fan, **So Yeon Min**, Shrimai Prabhumoye, Stephen McAleer, Yonatan Bisk, Ruslan Salakhutdinov, Yuanzhi Li, Tom Mitchell_
 
 [**GOAT: Go to any thing**](https://arxiv.org/pdf/2311.06430.pdf)\
-Arxiv Pre-print\
+RSS 2024\
 _Matthew Chang, Theophile Gervet, Mukul Khanna, Sriram Yenamandra, Dhruv Shah, **So Yeon Min**, Kavit Shah, Chris Paxton, Saurabh Gupta, Dhruv Batra, Roozbeh Mottaghi, Jitendra Malik, Devendra Singh Chaplot_
 
 [**Habitat 3.0: A co-habitat for humans, avatars and robots**](https://arxiv.org/pdf/2310.13724.pdf)\
