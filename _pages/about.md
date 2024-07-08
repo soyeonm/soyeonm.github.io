@@ -45,7 +45,7 @@ Publications
 **2024**
 
 [**Situated Instruction Following**](https://soyeonm.github.io/SIF_webpage/)\
-ECCV 2024\
+**ECCV 2024**\
 _**So Yeon Min**, Xavi Puig, Devendra Singh Chaplot, Tsung-Yen Yang, Akshara Rai, Priyam Parashar, Ruslan Salakhutdinov, Yonatan Bisk, Roozbeh Mottaghi_
 
 [**AgentKit: Flow Engineering with Graphs, not Coding**](https://arxiv.org/abs/2404.11483)\
@@ -53,17 +53,17 @@ Arxiv Pre-print\
 _Yue Wu, Yewen Fan, **So Yeon Min**, Shrimai Prabhumoye, Stephen McAleer, Yonatan Bisk, Ruslan Salakhutdinov, Yuanzhi Li, Tom Mitchell_
 
 [**GOAT: Go to any thing**](https://arxiv.org/pdf/2311.06430.pdf)\
-RSS 2024\
+**RSS 2024**\
 _Matthew Chang, Theophile Gervet, Mukul Khanna, Sriram Yenamandra, Dhruv Shah, **So Yeon Min**, Kavit Shah, Chris Paxton, Saurabh Gupta, Dhruv Batra, Roozbeh Mottaghi, Jitendra Malik, Devendra Singh Chaplot_
 
 [**Habitat 3.0: A co-habitat for humans, avatars and robots**](https://arxiv.org/pdf/2310.13724.pdf)\
-**ICLR 2024.**\
+**ICLR 2024**\
 _Xavier Puig, Eric Undersander, Andrew Szot, Mikael Dallaire Cote, Tsung-Yen Yang, Ruslan Partsey, Ruta Desai, Alexander William Clegg, Michal Hlavac, **So Yeon Min**, Vladimír Vondruš, Theophile Gervet, Vincent-Pierre Berges, John M Turner, Oleksandr Maksymets, Zsolt Kira, Mrinal Kalakrishnan, Jitendra Malik, Devendra Singh Chaplot, Unnat Jain, Dhruv Batra, Akshara Rai, Roozbeh Mottaghi_
 
 **2023**
 
 [**SPRING: GPT-4 Out-performs RL Algorithms by Studying Papers and Reasoning**](https://arxiv.org/pdf/2305.15486.pdf)\
-**NeurIPS 2023.**\
+**NeurIPS 2023**\
 _Yue Wu, **So Yeon Min**, Shrimai Prabhumoye, Yonatan Bisk, Ruslan Salakhutdinov, Amos Azaria, Tom Mitchell, Yuanzhi Li_
 
 [**Plan, Eliminate, and Track--Language Models are Good Teachers for Embodied Agents**](https://arxiv.org/pdf/2305.02412.pdf)\
@@ -71,21 +71,21 @@ Arxiv Pre-print\
 _Yue Wu, **So Yeon Min**, Yonatan Bisk, Ruslan Salakhutdinov, Amos Azaria, Yuanzhi Li, Tom Mitchell, Shrimai Prabhumoye_
 
 [**Object Goal Navigation with End-to-End Self-Supervision**](https://arxiv.org/abs/2212.05923)\
-**IROS 2023.**\
+**IROS 2023**\
 _**So Yeon Min**, Yao-Hung Hubert Tsai, Wei Ding, Ali Farhadi, Ruslan Salakhutdinov, Yonatan Bisk, Jian Zhang_
 
 [**EXCALIBUR: Encouraging and Evaluating Embodied Exploration**](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_EXCALIBUR_Encouraging_and_Evaluating_Embodied_Exploration_CVPR_2023_paper.pdf)\
-**CVPR 2023.**\
+**CVPR 2023**\
 _Hao Zhu, Raghav Kapoor, **So Yeon Min**, Winson Han, Jiatai Li, Kaiwen Geng, Graham Neubig, Yonatan Bisk, Aniruddha Kembhavi, Luca Weihs_
 
 **2022**
 
 [**Don't Copy the Teacher: Data and Model Challenges in Embodied Dialogue**](https://arxiv.org/abs/2210.04443)\
-**EMNLP 2022.** \
+**EMNLP 2022** \
 _**So Yeon Min**, Hao Zhu, Yonatan Bisk, Ruslan Salakhutdinov_
 
 [**FILM: Following Instructions in Language with Modular Methods**](https://soyeonm.github.io/FILM_webpage/)\
-**ICLR 2022.** \
+**ICLR 2022** \
 _**So Yeon Min**, Devendra Chaplot, Pradeep Ravikumar, Yonatan Bisk, Ruslan Salakhutdinov_
 
 
