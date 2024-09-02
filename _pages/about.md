@@ -8,8 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year PhD student at Carnegie Mellon University's Machine Learning Department (MLD), co-advised by Professors [**Ruslan Salakhutdinov**](https://www.cs.cmu.edu/~rsalakhu/) and [**Yonatan Bisk**](https://yonatanbisk.com/index.html). My research is funded by **Apple AI/ ML scholars fellowship 2023**.
-I earned my B.S. and M.Eng at MIT, as the **second place recipient of the Charles & Jennifer Johnson Artificial Intelligence and Decision Making M.Eng Thesis Award**.
+I am on the **industry job market**, and I hope to start interviewing from early 2025! 
+
+I am a fifth year PhD student at **Carnegie Mellon University's Machine Learning Department** (MLD). I am currently actively conducting research on **LLM Agents**, for application to both virtual and embodied domains. I am advised by Professors [Ruslan Salakhutdinov](https://www.cs.cmu.edu/~rsalakhu/) and [Yonatan Bisk](https://yonatanbisk.com/index.html). 
+
+My research is funded by the [Apple AI/ ML scholars fellowship 2023](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023).
+
+I earned my B.S. and M.Eng from **MIT EECS**, with the [Charles & Jennifer Johnson Thesis Award](https://www.eecs.mit.edu/2021-eecs-awards/). 
+
+Link to my up-to-date CV is [here](https://drive.google.com/file/d/1m4vkZR9VsmmIORtdT9D9gv1odX5NnphX/view?usp=sharing).
 
 
 News
