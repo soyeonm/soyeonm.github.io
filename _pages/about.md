@@ -10,7 +10,7 @@ redirect_from:
 
 I am on the **industry job market**, and I hope to start interviewing from early 2025! 
 
-I am a fifth year PhD student at **Carnegie Mellon University's Machine Learning Department** (MLD). I am currently actively conducting research on **LLM Agents**, for application to both virtual and embodied domains. I am advised by Professors [Ruslan Salakhutdinov](https://www.cs.cmu.edu/~rsalakhu/) and [Yonatan Bisk](https://yonatanbisk.com/index.html). 
+I am a fifth year PhD student at **Carnegie Mellon University's Machine Learning Department (CMU MLD)**. I am currently actively conducting research on **LLM Agents**, for application to both computer tasks and embodied domains. I am advised by Professors [Ruslan Salakhutdinov](https://www.cs.cmu.edu/~rsalakhu/) and [Yonatan Bisk](https://yonatanbisk.com/index.html). 
 
 My research is funded by the [Apple AI/ ML scholars fellowship 2023](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023).
 
