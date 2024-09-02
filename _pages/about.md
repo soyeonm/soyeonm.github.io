@@ -14,18 +14,18 @@ I am a fifth year PhD student at **Carnegie Mellon University's Machine Learning
 
 My research is funded by the [Apple AI/ ML scholars fellowship 2023](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023).
 
-I earned my B.S. and M.Eng from **MIT EECS**, with the [Charles & Jennifer Johnson Thesis Award](https://www.eecs.mit.edu/2021-eecs-awards/). 
+I earned my B.S. and M.Eng from **MIT EECS**; I was awarded the [Charles & Jennifer Johnson Thesis Award](https://www.eecs.mit.edu/2021-eecs-awards/) upon graduation. I have interened at AI research groups of Apple and Meta. I and my research have been featured in CMU news multiple times; the most recent coverage is [here](https://www.cs.cmu.edu/news/2024/robots-ambiguous-instructions).
 
 Link to my up-to-date CV is [here](https://drive.google.com/file/d/1m4vkZR9VsmmIORtdT9D9gv1odX5NnphX/view?usp=sharing).
 
 
 News
 ======
-Jul. 3. 2024: [Situated Instruction Following](https://soyeonm.github.io/SIF_webpage/) is accepted to ECCV 2024!
+Jul. 3. 2024: [Situated Instruction Following](https://soyeonm.github.io/SIF_webpage/), my work during Meta internship, is accepted to ECCV 2024!
 
 April. 1. 2024: [Habitat 3.0](https://arxiv.org/pdf/2310.13724.pdf) is accepted to ICLR 2024!
 
-Dec. 21. 2023: I finished my internship at Meta. Please stay tuned for arxiv upload of a new paper! 
+Dec. 21. 2023: I finished my internship at Meta. 
 
 Sep. 21. 2023: [SPRING](https://arxiv.org/pdf/2305.15486.pdf) is accepted to NeurIPS 2023!
 
