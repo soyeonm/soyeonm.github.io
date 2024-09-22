@@ -51,7 +51,7 @@ Publications
 ======
 **2024**
 
-**Training Belief and Confidence aware LLM Agents**\
+**Training Belief and Confidence Aware LLM Agents**\
 First author work in progress
 
 **General Nonparametric Embodied Memory**\
