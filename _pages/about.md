@@ -54,7 +54,7 @@ The years (e.g., 2025) refer to the expected or actual dates when the conference
 
 **2025**
 
-**Training Belief and Confidence aware LLM Agents**\
+**Training Belief and Confidence Aware LLM Agents**\
 First author work in progress
 
 **General Nonparametric Embodied Memory**\
