@@ -14,7 +14,7 @@ I am a fifth year PhD student at **Carnegie Mellon University's Machine Learning
 
 My research is funded by the [Apple AI/ ML scholars fellowship 2023](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023).
 
-I earned my B.S. and M.Eng from **MIT EECS**; I was awarded the [Charles & Jennifer Johnson Thesis Award](https://www.eecs.mit.edu/2021-eecs-awards/) upon graduation. I have interned at Apple and Meta research. My research have been featured in CMU news multiple times; the most recent coverage is [here](https://www.cs.cmu.edu/news/2024/robots-ambiguous-instructions).
+I earned my B.S. and M.Eng from **MIT EECS**; I was awarded the [Charles & Jennifer Johnson Thesis Award](https://www.eecs.mit.edu/2021-eecs-awards/) upon graduation. I have interned at Apple AI/ML and Meta FAIR. My research have been featured in CMU news multiple times; the most recent coverage is [here](https://www.cs.cmu.edu/news/2024/robots-ambiguous-instructions).
 
 Link to my up-to-date CV is [here](https://drive.google.com/file/d/1m4vkZR9VsmmIORtdT9D9gv1odX5NnphX/view?usp=sharing).
 
