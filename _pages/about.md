@@ -51,10 +51,10 @@ Publications
 ======
 **2024**
 
-[**Training Belief and Confidence aware LLM Agents**]
+**Training Belief and Confidence aware LLM Agents**\
 First author work in progress
 
-[**General Nonparametric Embodied Memory**]
+**General Nonparametric Embodied Memory**\
 Co-first author work in progress
 
 [**Tools Fail: Detecting Silent Errors in Faulty Tools**](https://arxiv.org/abs/2406.19228)\
