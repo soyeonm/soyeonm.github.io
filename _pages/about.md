@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am on the **industry job market**, and I hope to start interviewing from early 2025! 
+I am on the **industry job market**, and will start interviewing from early 2025! 
 
-I am a fifth year PhD student at **Carnegie Mellon University's Machine Learning Department (CMU MLD)**. I am currently actively conducting research on **LLM Agents**, for application to both computer tasks and embodied domains. I am advised by Professors [Ruslan Salakhutdinov](https://www.cs.cmu.edu/~rsalakhu/) and [Yonatan Bisk](https://yonatanbisk.com/index.html). 
+I am a fifth year PhD student at **Carnegie Mellon University's Machine Learning Department (CMU MLD)**. I am actively conducting research on **Embodied** and **LLM Agents**, for application to both physical and computer domains. I am advised by Professors [Ruslan Salakhutdinov](https://www.cs.cmu.edu/~rsalakhu/) and [Yonatan Bisk](https://yonatanbisk.com/index.html). 
 
 My research is funded by the [Apple AI/ ML scholars fellowship 2023](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023).
 
@@ -51,12 +51,22 @@ Publications
 ======
 **2024**
 
+[**Training Belief and Confidence aware LLM Agents**]
+First author work in progress
+
+[**General Nonparametric Embodied Memory**]
+Co-first author work in progress
+
+[**Tools Fail: Detecting Silent Errors in Faulty Tools**](https://arxiv.org/abs/2406.19228)\
+**EMNLP 2024**\
+_Jimin Sun, **So Yeon Min**, Yingshan Chang, Yonatan Bisk_
+
 [**Situated Instruction Following**](https://soyeonm.github.io/SIF_webpage/)\
 **ECCV 2024**\
 _**So Yeon Min**, Xavi Puig, Devendra Singh Chaplot, Tsung-Yen Yang, Akshara Rai, Priyam Parashar, Ruslan Salakhutdinov, Yonatan Bisk, Roozbeh Mottaghi_
 
 [**AgentKit: Flow Engineering with Graphs, not Coding**](https://arxiv.org/abs/2404.11483)\
-Arxiv Pre-print\
+**COLM 2024**\
 _Yue Wu, Yewen Fan, **So Yeon Min**, Shrimai Prabhumoye, Stephen McAleer, Yonatan Bisk, Ruslan Salakhutdinov, Yuanzhi Li, Tom Mitchell_
 
 [**GOAT: Go to any thing**](https://arxiv.org/pdf/2311.06430.pdf)\
