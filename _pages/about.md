@@ -49,13 +49,18 @@ Jul. 6, 2021: I have been chosen as the **second place recipient of the  Charles
 
 Publications
 ======
-**2024**
+
+The years (e.g., 2025) refer to the expected or actual dates when the conference takes place at the scheduled venue.
+
+**2025**
 
 **Training Belief and Confidence aware LLM Agents**\
 First author work in progress
 
 **General Nonparametric Embodied Memory**\
 Co-first author work in progress
+
+**2024**
 
 [**Tools Fail: Detecting Silent Errors in Faulty Tools**](https://arxiv.org/abs/2406.19228)\
 **EMNLP 2024**\
