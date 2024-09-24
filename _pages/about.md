@@ -18,7 +18,7 @@ I earned my B.S. and M.Eng from **MIT EECS**; I was awarded the [Charles & Jenni
 
 Link to my up-to-date CV is [here](https://drive.google.com/file/d/1m4vkZR9VsmmIORtdT9D9gv1odX5NnphX/view?usp=sharing).
 
-
+<!--
 News
 ======
 Jul. 3. 2024: [Situated Instruction Following](https://soyeonm.github.io/SIF_webpage/), my work during Meta internship, is accepted to ECCV 2024!
@@ -46,7 +46,7 @@ Jan. 20. 2022: [FILM](https://soyeonm.github.io/FILM_webpage/) is accepted to IC
 Jan. 5. 2022: Invited talk on [FILM](https://soyeonm.github.io/FILM_webpage/) at [GIST Computer Vision Lab](https://gistvision.github.io/)! Thank you for inviting me!
 
 Jul. 6, 2021: I have been chosen as the **second place recipient of the  Charles & Jennifer Johnson Artificial Intelligence and Decision Making M.Eng Thesis Award** for 2021, for my Master's Thesis “Towards Knowledge-Based, Robust Question Answering.” Thank you once again, Pete and Preethi!
-
+-->
 Publications
 ======
 
