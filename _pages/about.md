@@ -58,10 +58,12 @@ The years (e.g., 2025) refer to the expected or actual dates when the conference
 **Training Belief and Confidence Aware LLM Agents**\
 First author work in progress
 
-**General Nonparametric Embodied Memory**\
-Co-first author work in progress
 
 **2024**
+
+[**Embodied-RAG: General Non-parametric Embodied Memory for Retrieval and Generation**](https://arxiv.org/abs/2409.18313)\
+In Submission
+_**So Yeon Min* **, Quanting Xie*, Tianyi Zhang, Aarav Bajaj, Ruslan Salakhutdinov, Matthew Johnson-Roberson, Yonatan Bisk_
 
 [**Tools Fail: Detecting Silent Errors in Faulty Tools**](https://arxiv.org/abs/2406.19228)\
 **EMNLP 2024**\
