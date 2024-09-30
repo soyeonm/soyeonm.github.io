@@ -48,6 +48,16 @@ Jan. 5. 2022: Invited talk on [FILM](https://soyeonm.github.io/FILM_webpage/) at
 Jul. 6, 2021: I have been chosen as the **second place recipient of the  Charles & Jennifer Johnson Artificial Intelligence and Decision Making M.Eng Thesis Award** for 2021, for my Master's Thesis “Towards Knowledge-Based, Robust Question Answering.” Thank you once again, Pete and Preethi!
 -->
 
+Talks
+======
+
+Sep 30, 2024: Invited Talk at the [Multimodal Agents Workshop](https://multimodalagents.github.io/) at ECCV 2024!
+
+April. 10. 2023: Invited Talk at the Yonsei University Vision and Learning Lab! 
+
+Jan. 5. 2022: Invited Talk at the GIST computer vision group!
+
+
 Publications
 ======
 
