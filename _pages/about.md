@@ -63,7 +63,7 @@ First author work in progress
 
 [**Embodied-RAG: General Non-parametric Embodied Memory for Retrieval and Generation**](https://arxiv.org/abs/2409.18313)\
 In Submission
-_**So Yeon Min* **, Quanting Xie*, Tianyi Zhang, Aarav Bajaj, Ruslan Salakhutdinov, Matthew Johnson-Roberson, Yonatan Bisk_
+___So Yeon Min*__, Quanting Xie*, Tianyi Zhang, Aarav Bajaj, Ruslan Salakhutdinov, Matthew Johnson-Roberson, Yonatan Bisk_
 
 [**Tools Fail: Detecting Silent Errors in Faulty Tools**](https://arxiv.org/abs/2406.19228)\
 **EMNLP 2024**\
