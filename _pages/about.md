@@ -16,7 +16,7 @@ My research is funded by the [Apple AI/ ML scholars fellowship 2023](https://mac
 
 I earned my B.S. and M.Eng from **MIT EECS**; I was awarded the [Charles & Jennifer Johnson Thesis Award](https://www.eecs.mit.edu/2021-eecs-awards/) upon graduation. I have interned at Apple AI/ML and Meta FAIR. My research have been featured in CMU news multiple times; the most recent coverage is [here](https://www.cs.cmu.edu/news/2024/robots-ambiguous-instructions).
 
-Link to my up-to-date CV is [here](https://drive.google.com/file/d/1m4vkZR9VsmmIORtdT9D9gv1odX5NnphX/view?usp=sharing).
+Link to my up-to-date CV is [here](https://drive.google.com/file/d/1W-FY0Yupi-2vXbSoRCiXp59CC1eyOFM8/view?usp=sharing).
 
 <!--
 News
@@ -51,7 +51,9 @@ Jul. 6, 2021: I have been chosen as the **second place recipient of the  Charles
 Talks
 ======
 
-Sep 30, 2024: Invited Talk at the [Multimodal Agents Workshop](https://multimodalagents.github.io/) at ECCV 2024!
+Sep 30, 2024: Invited Talk at the [Multimodal Agents Workshop](https://multimodalagents.github.io/) at ECCV 2024! \
+The topic of the talk was **"Progress and Challenges in Non-parametric and Parametric Components of Embodied Agents."** \
+The slides can be seen [here](https://drive.google.com/file/d/1zslH_NgcVIjd8CaNRfYMGzxYjj86TdCg/view?usp=sharing)
 
 April. 10. 2023: Invited Talk at the Yonsei University Vision and Learning Lab! 
 
