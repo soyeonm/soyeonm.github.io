@@ -16,7 +16,7 @@ My research is funded by the [Apple AI/ ML scholars fellowship 2023](https://mac
 
 I earned my B.S. and M.Eng from **MIT EECS**; I was awarded the [Charles & Jennifer Johnson Thesis Award](https://www.eecs.mit.edu/2021-eecs-awards/) upon graduation. I have interned at Apple AI/ML and Meta FAIR. My research have been featured in CMU news multiple times; the most recent coverage is [here](https://www.cs.cmu.edu/news/2024/robots-ambiguous-instructions).
 
-Link to my up-to-date CV is [here](https://drive.google.com/file/d/1W-FY0Yupi-2vXbSoRCiXp59CC1eyOFM8/view?usp=sharing).
+Link to my up-to-date CV is [here](https://drive.google.com/file/d/1Glz4wS8ht60iFkJDKL8nXVnzcm6ekVIH/view?usp=sharing).
 
 <!--
 News
