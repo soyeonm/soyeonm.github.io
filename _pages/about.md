@@ -10,11 +10,11 @@ redirect_from:
 
 I am on the **industry job market**, and will start interviewing from early 2025! 
 
-I am a fifth year PhD student at **Carnegie Mellon University's Machine Learning Department (CMU MLD)**. I am actively conducting research on **Embodied** and **LLM Agents**, for application to both physical and computer domains. I am advised by Professors [Ruslan Salakhutdinov](https://www.cs.cmu.edu/~rsalakhu/) and [Yonatan Bisk](https://yonatanbisk.com/index.html). My recent research interest is **making LLM agents reliable**, with meta-cogntiive capabilities to efficiently request test-time compute or more powerful models; please checkout my fresh paper [here](https://soyeonm.github.io/self_reg/)!
+I am a fifth year PhD student at **Carnegie Mellon University's Machine Learning Department (CMU MLD)**. I am actively conducting research on **Embodied** and **LLM Agents**, for application to both physical and computer domains. I am advised by Professors [Ruslan Salakhutdinov](https://www.cs.cmu.edu/~rsalakhu/) and [Yonatan Bisk](https://yonatanbisk.com/index.html). 
 
-My research is funded by the [Apple AI/ ML scholars fellowship 2023](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023).
+My recent research interest is **making LLM agents reliable**, _with meta-cogntiive capabilities to efficiently request test-time compute or more powerful models_; please checkout my fresh paper [here](https://soyeonm.github.io/self_reg/)!
 
-I earned my B.S. and M.Eng from **MIT EECS**; I was awarded the [Charles & Jennifer Johnson Thesis Award](https://www.eecs.mit.edu/2021-eecs-awards/) upon graduation. I have interned at Apple AI/ML and Meta FAIR. My research have been featured in CMU news multiple times; the most recent coverage is [here](https://www.cs.cmu.edu/news/2024/robots-ambiguous-instructions).
+My research is funded by the [Apple AI/ ML scholars fellowship 2023](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023). I earned my B.S. and M.Eng from **MIT EECS**; I was awarded the [Charles & Jennifer Johnson Thesis Award](https://www.eecs.mit.edu/2021-eecs-awards/) upon graduation. I have interned at Apple AI/ML and Meta FAIR. My research have been featured in CMU news multiple times; the most recent coverage is [here](https://www.cs.cmu.edu/news/2024/robots-ambiguous-instructions).
 
 Link to my up-to-date CV is [here](https://drive.google.com/file/d/134-4qh1d3m09O2m3jbD5QkNocLDijRot/view?usp=sharing).
 
