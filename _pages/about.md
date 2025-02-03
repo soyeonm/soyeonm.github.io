@@ -69,16 +69,15 @@ The years (e.g., 2025) refer to the expected or actual dates when the conference
 
 
 [**Self-Regulation and Requesting Interventions**](https://soyeonm.github.io/self_reg/)\
-Will be on Arxiv soon!\
-[Paper PDF](https://drive.google.com/file/d/17Suynjm_2Uf_dVBpFNS1H_ZErCuIW3UM/view?usp=sharing) \
-[Project Webpage](https://soyeonm.github.io/self_reg/) \
+In Submission\
+[Paper PDF](https://drive.google.com/file/d/17Suynjm_2Uf_dVBpFNS1H_ZErCuIW3UM/view?usp=sharing) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Project Webpage](https://soyeonm.github.io/self_reg/) \
 ___So Yeon Min*__, Quanting Xie*, Tianyi Zhang, Aarav Bajaj, Ruslan Salakhutdinov, Matthew Johnson-Roberson, Yonatan Bisk_
 
 
 **2024**
 
 [**Embodied-RAG: General Non-parametric Embodied Memory for Retrieval and Generation**](https://arxiv.org/abs/2409.18313)\
-Arxiv Pre-print\
+In Submission\
 ___So Yeon Min*__, Quanting Xie*, Tianyi Zhang, Aarav Bajaj, Ruslan Salakhutdinov, Matthew Johnson-Roberson, Yonatan Bisk_
 
 [**Tools Fail: Detecting Silent Errors in Faulty Tools**](https://arxiv.org/abs/2406.19228)\
