@@ -68,7 +68,7 @@ The years (e.g., 2025) refer to the expected or actual dates when the conference
 **2025**
 
 
-[**Self-Regulation and Requesting Interventions*](https://soyeonm.github.io/self_reg/)\
+[**Self-Regulation and Requesting Interventions**](https://soyeonm.github.io/self_reg/)\
 Will be on Arxiv soon!\
 [Paper PDF](https://drive.google.com/file/d/17Suynjm_2Uf_dVBpFNS1H_ZErCuIW3UM/view?usp=sharing) \
 [Project Webpage](https://soyeonm.github.io/self_reg/) \
